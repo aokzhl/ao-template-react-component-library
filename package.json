@@ -1,9 +1,9 @@
 {
   "name": "@satinov/ao-template-react-component-library",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/satinov"
+    "registry": "https://npm.pkg.github.cnpom/satinov"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple template for a custom React component library",
   "scripts": {
     "rollup": "rollup -c"
